@@ -1,15 +1,3 @@
-html, body {
-  // Smooth scroll always for html tag
-  scroll-behavior: smooth;
-  // scroll-snap-type: y; // <-- snap in y axis
-}
-
-// mobile 
-@media (max-width: 800px) {
-  html, body {
-  overflow-x: hidden;
-  }
-}
 
 .u-block-f222-2 {
   position: absolute;
